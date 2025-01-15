@@ -8,10 +8,9 @@
 
 <p align="center">
 <img 
-    src="./assets/capa.jpeg"
-    width="500"  
+    src="https://github.com/user-attachments/assets/5788f4f9-f00d-454f-a048-4a1d8a42476b"
+    width="350"  
 />
-</p>
 
 # Projeto EBOOK Gerado por I.A
 
